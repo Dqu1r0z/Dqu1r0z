@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dqu1r0z
-- 👀 I’m interested in ... code programming, cyber-security, games
-- 🌱 I’m currently learning ... javascript
+- 👀 I’m interested in ... code programming, cyber-security, games, web design, software development
+- 🌱 I’m currently learning ... HTML & CSS
 - 💞️ I’m looking to collaborate on ... Github community
-- 📫 How to reach me ... 
+- 📫 How to reach me ... @frankir0z
 
 <!---
 Dqu1r0z/Dqu1r0z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
